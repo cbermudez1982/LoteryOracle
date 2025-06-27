@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/mnt/c/CursoETH/Modulo4/LoteryOracle/contracts/Lottery.sol": {
+      "lastModificationDate": 1750977673472,
+      "contentHash": "f779f72761ceb9f2f90574018cd50974",
+      "sourceName": "contracts/Lottery.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Lottery"
+      ]
+    }
+  }
+}
